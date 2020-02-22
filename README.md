@@ -11,3 +11,5 @@ to:The biggest number in the range of random numbers you want to generate.
 except[]:The array of the numbers you don't want them to appear.
 
 array:The length of the array of the numbers you don't want them to appear.
+
+Please downlaod the library here:https://raw.githubusercontent.com/Pacoshao/Arduino-library_Creat-a-random-without-some-number/master/New_Random/New_Random.zip
